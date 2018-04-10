@@ -1,7 +1,7 @@
 <h5>世界，你好！</h5>
 <h5>Hello World!</h5>
 <h5>こんにちは世界!</h5>
-<h5>Привет мир！</h5>
+<h5>Привет мир!</h5>
 <h5>Bonjour le monde!</h5>
 <h5>Halo Dunia!</h5>
 <h5>kumusta sa mundo!</h5>
